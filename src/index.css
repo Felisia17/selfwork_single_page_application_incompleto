@@ -1,0 +1,20 @@
+.titleClass {
+    color: rgb(102, 2, 196);
+    font-weight: 800;
+    font-family: monospace;
+
+}
+
+.labelClass {
+    color: rgb(24, 119, 201);
+    font-family: fantasy;
+    
+
+}
+
+.inputClass {
+    height: 50px;
+    width: 500px;
+    border: 6px solid violet;
+    
+}

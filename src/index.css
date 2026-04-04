@@ -2,6 +2,9 @@
     color: rgb(102, 2, 196);
     font-weight: 800;
     font-family: monospace;
+    margin: 70px;
+    justify-content: end;
+    text-align: center;
 
 }
 
@@ -17,4 +20,54 @@
     width: 500px;
     border: 6px solid violet;
     
+}
+
+.nav {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(27, 247, 134);
+    border: 5px solid rgb(18, 220, 238);
+    top: 0;
+    position: fixed;
+
+}
+
+body{
+    margin: 0;
+    
+}
+
+.link1{
+    color: rgb(18, 18, 216);
+    font-family: cursive;
+    font-size: large;
+
+}
+
+.link2{
+    color: rgb(227, 12, 12);
+    font-family: cursive;
+    font-size: medium;
+
+}
+
+ul {
+    list-style: none;
+    margin-top: 0;
+}
+
+#header1 {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    color:rgb(255, 123, 0);
+}
+
+.listItem {
+    color: rgb(255, 0, 225);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    font-size: x-large;
 }

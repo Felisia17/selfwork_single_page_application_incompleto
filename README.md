@@ -17,14 +17,3 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 
-In react realizziamo SPA (Single Page Application), singolo HTML. 
-
-JSX Java Script Extention rende react dichiarativo, scriviamo js ma return html. 
-
-React Fragment <> </>
-
-All'interno delle graffe per richiamare una variabile/costante non posso inserire istruzioni, no funzioni. Posso inserire ad esempio un ternario.
-
-Per jsx no closing tag, tutti i tag devono essere chiusi. <  chiusura   />
-
-Attributo class e for vanno modificate: per class ClassName e per for htmlFor.

@@ -1,8 +1,12 @@
+
+
 import Header from "./components/Header.jsx";
 import List from "./components/List.jsx";
 import Navbar from "./components/Navbar.jsx";
 import Form from "./components/Form.jsx";
 import Counter from "./components/Counter.jsx";
+import React from "react";
+import LoadingData from "./components/LoadingData.jsx";
 
 
 function App() {
@@ -26,6 +30,7 @@ const names = ['Zena', 'Athena', 'Alaska', 'Africa'];
 
     <Form></Form>
     <Counter></Counter>
+    <LoadingData></LoadingData>
 
     </>
       

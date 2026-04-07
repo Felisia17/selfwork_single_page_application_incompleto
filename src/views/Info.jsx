@@ -4,4 +4,4 @@ export default function Info(){
             <h1>Info</h1>
         </>
     )
-}
+}  

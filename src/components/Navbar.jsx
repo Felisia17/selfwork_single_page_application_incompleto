@@ -12,9 +12,6 @@ export default function Navbar(){
                     {/* <a className="link2" href="/detail">Datails</a> */}
                     <Link className="link2" to={'/posts'}>Posts</Link>
                 </li>
-                <li>
-                    <Link className="link3" to={'/details'}>Details</Link>
-                </li>
             </ul>
         </nav>
     )
